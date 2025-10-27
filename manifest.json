@@ -1,0 +1,17 @@
+{
+  "name": "Waterfall Evolution Viz",
+  "organization": "Léonard Viz",
+  "description": "Un graphique waterfall montrant l’évolution d’une métrique par zone.",
+  "resources": {
+    "js": ["index.js"],
+    "css": []
+  },
+  "components": {
+    "data": true,
+    "style": true
+  },
+  "logoUrl": "https://lookerstudio.google.com/",
+  "company": "Léonard",
+  "supportUrl": "https://lookerstudio.google.com/",
+  "privacyPolicyUrl": "https://lookerstudio.google.com/"
+}
