@@ -1,3 +1,5 @@
+
+Access-Control-Allow-Origin: *
 {
   "name": "Waterfall Evolution Viz",
   "organization": "Léonard Viz",
@@ -15,3 +17,4 @@
   "supportUrl": "https://lookerstudio.google.com/",
   "privacyPolicyUrl": "https://lookerstudio.google.com/"
 }
+
