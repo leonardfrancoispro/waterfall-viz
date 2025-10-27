@@ -1,5 +1,6 @@
 /manifest.json
   Access-Control-Allow-Origin: *
+  Content-Type: application/json
 
 /index.js
   Access-Control-Allow-Origin: *
